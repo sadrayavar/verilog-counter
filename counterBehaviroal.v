@@ -18,4 +18,3 @@ always @ (negedge clear)
 out=4'b0000;
 
 endmodule
-
